@@ -1,0 +1,35 @@
+body{
+   background-image: url("../img/Img_13.jpg");
+   background-attachment: fixed;
+}
+
+.centro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+h1{
+    color:lightskyblue;
+    text-align:center;
+    font-size:70px;
+}
+
+h5{
+    color: #00FFFF;
+}
+
+p{
+    color: goldenrod;
+    font-size:19px;   
+}
+
+#principal{
+    
+    margin:0 10% 0 10%;
+    height: 1200px;
+    padding: 10px;
+}
+
+
+
